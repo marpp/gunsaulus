@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  bodagram
+
+  Created by Alberto de Pablo Rodriguez on 10/8/12.
+  Copyright (c) 2012 Alberto de Pablo Rodriguez. All rights reserved.
+*/
+
+
+"myAlbums" = "My Albums";
+"myAccount" = "Account";
+"timeLineTitle" = "TimeLine";
